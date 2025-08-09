@@ -1,3 +1,7 @@
 {
-  "require": {}
+  "name": "telegram/relay",
+  "description": "Simple Telegram relay",
+  "require": {
+    "php": ">=7.4"
+  }
 }
